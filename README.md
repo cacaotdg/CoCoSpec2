@@ -4,7 +4,7 @@ This repository contains the code and resources for the CoCoaSpec project: a mul
 
 **Topic:** Non-invasive quality assessment of cocoa beans using hyperspectral imaging and physicochemical data, following the Colombian NTC 1252:2021 standard.
 
-**Dataset:** [CoCoSpec on HuggingFace](https://huggingface.co/datasets/ecos-nord-ginp-uis/CoCoaSpec)
+**Dataset:** [CoCoSpec on HuggingFace](https://huggingface.co/cacaotdg/CoCoaSpec2)
 
 **Quick Start:**
 
@@ -64,3 +64,4 @@ The scripts will set up the environment, download and extract the dataset, and r
 ---
 
  
+
